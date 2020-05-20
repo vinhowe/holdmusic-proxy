@@ -1,3 +1,6 @@
 [submodule "HoldMusic"]
 	path = HoldMusic
 	url = git@github.com:vinhowe/holdmusic.git
+[submodule "Velocity"]
+	path = Velocity
+	url = git@github.com:VelocityPowered/Velocity.git
