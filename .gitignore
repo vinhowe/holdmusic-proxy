@@ -1,0 +1,6 @@
+Velocity/
+proxy.py
+proxy2.py
+logs/
+plugins/*.jar
+*.jar

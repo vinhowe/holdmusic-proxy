@@ -1,0 +1,3 @@
+[submodule "HoldMusic"]
+	path = HoldMusic
+	url = git@github.com:vinhowe/holdmusic.git
