@@ -4,3 +4,4 @@ proxy2.py
 logs/
 plugins/*.jar
 *.jar
+velocity.toml
