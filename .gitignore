@@ -3,5 +3,6 @@ proxy2.py
 logs/
 plugins/*.jar
 *.jar
+reports/
 # Because we're using Bungeecord forwarding, our secret isn't sensitive. If we do switch, this should be uncommented
 # velocity.toml
